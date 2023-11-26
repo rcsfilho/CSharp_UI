@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\cls_Dal\cls_Dal.csproj" />
+    <ProjectReference Include="..\cls_modelo\cls_modelo.csproj" />
+  </ItemGroup>
+
+</Project>

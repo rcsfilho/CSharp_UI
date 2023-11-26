@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\bin\Debug\net6.0\cls_Dal.deps.json
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\bin\Debug\net6.0\cls_Dal.dll
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\bin\Debug\net6.0\cls_Dal.pdb
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\bin\Debug\net6.0\cls_modelo.dll
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\bin\Debug\net6.0\cls_modelo.pdb
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.csproj.CopyComplete
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.dll
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\refint\cls_Dal.dll
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\cls_Dal.pdb
+C:\Users\Usuário\Documents\Unip - Curso 3 semestre\Programação OO II\SistVet\Fontes\ui_wfa_SistVet\cls_Dal\obj\Debug\net6.0\ref\cls_Dal.dll

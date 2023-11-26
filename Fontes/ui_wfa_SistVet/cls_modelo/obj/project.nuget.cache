@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+XiBp5SjI4UDBIazy0EXJbYWhUz2GFT5rDEaEYWxyPBqxO2yKz6hkG20uM2bR12uaPTZxEqQ4dX8zUwd4R5Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuário\\Documents\\Unip - Curso 3 semestre\\Programação OO II\\SistVet\\Fontes\\ui_wfa_SistVet\\cls_modelo\\cls_modelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
